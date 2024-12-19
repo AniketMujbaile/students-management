@@ -1,0 +1,102 @@
+[
+    {
+        "name": "John Doe",
+        "age": 20,
+        "marks": 85,
+        "avgMarks": 80,
+        "rollNumber": "A102",
+        "class": "10th Grade",
+        "city": "New York",
+        "attendance": "95%"
+    },
+    {
+        "name": "Jane Smith", 
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B203", 
+        "class": "10th Grade",
+        "city": "Los Angeles", 
+        "attendance": "89%"
+    },
+    {
+        "name": "Michael Johnson",
+        "age": 21,
+        "marks": 92,
+        "avgMarks": 88,
+        "rollNumber": "C304",
+        "class": "11th Grade",
+        "city": "Chicago",
+        "attendance": "97%"
+    },
+    {
+        "name": "Emily Brown",
+        "age": 18,
+        "marks": 76,
+        "avgMarks": 72,
+        "rollNumber": "D405",
+        "class": "9th Grade",
+        "city": "Houston",
+        "attendance": "91%"
+    },
+    {
+        "name": "David Wilson",
+        "age": 20,
+        "marks": 81,
+        "avgMarks": 77,
+        "rollNumber": "E506",
+        "class": "10th Grade",
+        "city": "Phoenix",
+        "attendance": "93%"
+    },
+    {
+        "name": "Sarah Lee",
+        "age": 19,
+        "marks": 88,
+        "avgMarks": 83,
+        "rollNumber": "F607",
+        "class": "11th Grade",
+        "city": "Philadelphia",
+        "attendance": "96%"
+    },
+    {
+        "name": "Robert Garcia",
+        "age": 22,
+        "marks": 79,
+        "avgMarks": 75,
+        "rollNumber": "G708",
+        "class": "12th Grade",
+        "city": "San Antonio",
+        "attendance": "90%"
+    },
+    {
+        "name": "Amanda Martinez",
+        "age": 18,
+        "marks": 90,
+        "avgMarks": 86,
+        "rollNumber": "H809",
+        "class": "9th Grade",
+        "city": "San Diego",
+        "attendance": "94%"
+    },
+    {
+        "name": "Kevin Chen",
+        "age": 21,
+        "marks": 84,
+        "avgMarks": 79,
+        "rollNumber": "I910",
+        "class": "11th Grade",
+        "city": "San Jose",
+        "attendance": "92%"
+    },
+    {
+        "name": "Lisa Kim",
+        "age": 19,
+        "marks": 87,
+        "avgMarks": 82,
+        "rollNumber": "J011",
+        "class": "10th Grade",
+        "city": "Dallas",
+        "attendance": "95%"
+    }
+]
